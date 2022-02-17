@@ -4,3 +4,5 @@ const generalSettings = {
 }
 
 export default generalSettings
+
+//
